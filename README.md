@@ -22,7 +22,7 @@
 ## 📫 Kontakt
  
 - **Email:** sille.pragi@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/sille-pragi-7413a624b](https://www.linkedin.com/in/sille-pragi-7413a624b/)
+- **LinkedIn:** [www.linkedin.com/in/sille-pragi](https://www.linkedin.com/in/sille-pragi/)
  
 ---
  

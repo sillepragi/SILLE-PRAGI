@@ -17,7 +17,7 @@
  
 ## 📂 Projektid
  
-- [**DACA Portfoolio**]([https://github.com/sille-pragi/daca-portfolio.git]) - 11-nädalane õppeprojektid
+- [**DACA Portfoolio**]([https://github.com/sille-pragi/daca-portfolio.git]) - 11-nädalane õppeprojekt
  
 ## 📫 Kontakt
  

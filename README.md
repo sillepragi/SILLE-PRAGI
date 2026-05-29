@@ -17,12 +17,12 @@
  
 ## 📂 Projektid
  
-- [**DACA Portfoolio**]([https://github.com/sille-pragi/daca-portfolio.git]) - 11-nädalane õppeprojekt
+- [**DACA Portfoolio**]([https://github.com/sillepragi/daca-portfolio.git]) - 11-nädalane õppeprojekt
  
 ## 📫 Kontakt
  
 - **Email:** sille.pragi@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/sille-pragi](https://www.linkedin.com/in/sille-pragi/)
+- **LinkedIn:** [www.linkedin.com/in/sillepragi](https://www.linkedin.com/in/sillepragi/)
  
 ---
  

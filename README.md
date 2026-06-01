@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sille Pragi
+# Hi there! 👋 I'm Sille
  
 ## 🎯 Junior Data Analyst
  
@@ -6,7 +6,7 @@ I am currently participating in the **Data Analyst Career Accelerator (DACA)** p
 
 My goal is to transition into a career in data analytics and use data to uncover insights, support decision-making, and solve real-world business problems.
  
-## 🛠️ Technologies & Tools
+## 🛠️ Analytics Toolkit
  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,7 +17,7 @@ My goal is to transition into a career in data analytics and use data to uncover
 - **Data Visualization:** Power BI
 - **Version Control:** Git, GitHub, VS Code
  
-## 📂 Projects
+## 📂 Fetured Projects
  
 - [**DACA Portfoolio**](https://github.com/sillepragi/daca-portfolio) –
 An 11-week hands-on learning journey covering SQL, Python, data cleaning, analysis, visualization, and portfolio development.

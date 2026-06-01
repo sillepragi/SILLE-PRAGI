@@ -19,7 +19,7 @@ My goal is to transition into a career in data analytics and use data to uncover
  
 ## 📂 Fetured Projects
  
-- [**DACA Portfoolio**](https://github.com/sillepragi/daca-portfolio) –
+- [**DACA Portfolio**](https://github.com/sillepragi/daca-portfolio) –
 An 11-week hands-on learning journey covering SQL, Python, data cleaning, analysis, visualization, and portfolio development.
 
 ## 📫 Contact

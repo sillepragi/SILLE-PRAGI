@@ -22,7 +22,7 @@ My goal is to transition into a career in data analytics and use data to uncover
 - [**DACA Portfoolio**](https://github.com/sillepragi/daca-portfolio) –
 An 11-week hands-on learning journey covering SQL, Python, data cleaning, analysis, visualization, and portfolio development.
 
-## 📫 Kontakt
+## 📫 Contact
 
 <a href="https://www.linkedin.com/in/sillepragi/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />

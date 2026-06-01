@@ -6,7 +6,7 @@ I am currently participating in the **Data Analyst Career Accelerator (DACA)** p
 
 My goal is to transition into a career in data analytics and use data to uncover insights, support decision-making, and solve real-world business problems.
  
-## 🛠️ Tehnoloogiad, mida õpin
+## 🛠️ 🛠️ Technologies & Tools
  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)

@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Sille
+# Hi there! 👋 
  
-## Junior Data Analyst
+## I'm Sille — Junior Data Analyst
  
 I am currently participating in the **Data Analyst Career Accelerator (DACA)** program, where I am developing practical skills in data analytics and building my first professional portfolio.
 

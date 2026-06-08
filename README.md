@@ -2,9 +2,11 @@
  
 ## I'm Sille — Junior Data Analyst
  
-I am currently participating in the **Data Analyst Career Accelerator (DACA)** program, where I am developing practical skills in data analytics and building my first professional portfolio.
+I recently completed the **Data Analyst Career Accelerator (DACA): A Hands-On Mentorship Program**, where I developed my practical skills in data analytics while building a professional portfolio of projects.
 
-My goal is to transition into a career in data analytics and use data to uncover insights, support decision-making, and solve real-world business problems.
+Through this program, I gained hands-on experience in working with data, including SQL, Python, data visualization and applied these skills to real-world business cases.
+
+I am passionate about using data to uncover insights, support decision-making and solve real-world business problems. I continue to grow in this field through practical projects and ongoing learning.
  
 ## 🛠️ Analytics Toolkit
  
@@ -20,7 +22,7 @@ My goal is to transition into a career in data analytics and use data to uncover
 ## 📂 Fetured Projects
  
 - [**DACA Portfolio**](https://github.com/sillepragi/daca-portfolio) –
-An 11-week hands-on learning journey covering SQL, Python, data cleaning, analysis, visualization, and portfolio development.
+An 11-week hands-on learning journey covering SQL, Python, data cleaning, analysis, visualization and portfolio development.
 
 ## 📫 Contact
 
